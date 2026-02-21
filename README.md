@@ -1,7 +1,5 @@
-# Revenue-Retention-Cohort-Analysis-for-B2B-FinTech-Investor-Reporting-
-Investor-grade cohort analysis used to communicate revenue quality, retention strength, and long-term growth strategy in a B2B fintech environment.
-
 # Revenue & Retention Cohort Analysis for B2B FinTech (Investor Reporting)
+Investor-grade cohort analysis used to communicate revenue quality, retention strength, and long-term growth strategy in a B2B fintech environment.
 
 ## Overview
 This project focuses on building a **comprehensive revenue and retention cohort analysis** for a US-based B2B fintech platform with over one million users and multiple monetization models.
