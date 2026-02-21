@@ -17,11 +17,23 @@ All visuals and descriptions are anonymized to preserve confidentiality.
 ---
 
 ## Business Context
-The platform serves B2B customers through multiple revenue streams, including:
-- Subscription plans (Monthly, Yearly, Pay-as-you-go, Enterprise)
-- Wallet-based balances and transactions
-- Add-on services
-- Credit and bank-related revenue (profit sharing, rails)
+The platform is a US-focused B2B payments and financial operations platform designed to help businesses **send and receive money efficiently**.
+
+Core payment capabilities include:
+- Creating, printing, emailing, and mailing checks to vendors
+- ACH and wire transfers for domestic business payments
+- Requesting payments from customers and partners
+- Recently introduced international payment capabilities
+
+In addition to payments, the platform provides value-added business tools such as:
+- Wallet-based balances for faster transactions
+- Spend tracking and transaction visibility
+- Bank account and ledger-style financial views
+- Add-on features that support day-to-day business operations
+
+The platform monetizes through a combination of **subscription plans, payment-related fees, wallet-based revenue, add-ons, and credit or bank-related revenue streams**.
+
+Given the diversity of payment flows and monetization models, leadership needed a cohort-based view to understand **how customer retention and revenue quality evolve over time** across different customer segments and payment behaviors.
 
 While overall user acquisition was strong, leadership needed a **cohort-based view** to understand:
 - How long customers stay active
